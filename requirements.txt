@@ -1,0 +1,21 @@
+# Data manipulation and scientific computing
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pillow
+ipykernel
+ipywidgets
+tqdm
+
+# Deep learning and AI models
+tensorflow
+huggingface_hub
+datasets
+transformers
+diffusers
+accelerate
+
+# Web UI and visualization
+gradio
